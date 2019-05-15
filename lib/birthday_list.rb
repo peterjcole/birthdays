@@ -58,7 +58,4 @@ class BirthdayList
   def birthday_to_string(birthday)
     birthday.strftime("%Y-%m-%d")
   end
-
-
-
 end
